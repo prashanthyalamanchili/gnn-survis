@@ -1,0 +1,102 @@
+[
+    {
+        "title": "A Deep Learning Approach to Antibiotic Discovery",
+        "authors": [ "Jonathan M. Stokes", "Kevin Yang", "Kyle Swanson" ],
+        "year": 2020,
+        "venue": "Cell",
+        "link": "https://doi.org/10.1016/j.cell.2020.01.021",
+        "tags": [ "Healthcare", "Drug Discovery", "GNN" ],
+        "abstract": "Applies GNN to identify antibiotics. Successfully discovered Halicin using molecular graph data.",
+        "selected": true
+    },
+    {
+        "title": "Neural Message Passing for Quantum Chemistry",
+        "authors": [ "Justin Gilmer", "Samuel S. Schoenholz", "Patrick F. Riley" ],
+        "year": 2017,
+        "venue": "ICML",
+        "link": "https://doi.org/10.5555/3294771.3294889",
+        "tags": [ "Scientific Research", "MPNN", "Chemistry" ],
+        "abstract": "Introduces the Message Passing Neural Network (MPNN) for quantum property prediction.",
+        "selected": true
+    },
+    {
+        "title": "Threat Detection in Cybersecurity Using Graph Neural Networks",
+        "authors": [ "Wang et al." ],
+        "year": 2020,
+        "venue": "IEEE TIFS",
+        "link": "https://doi.org/10.1109/TIFS.2020.2988823",
+        "tags": [ "Cybersecurity", "Anomaly Detection", "GNN" ],
+        "abstract": "Models network logs as graphs to detect threats with high accuracy.",
+        "selected": true
+    },
+    {
+        "title": "Financial Fraud Detection Using Graph Neural Networks",
+        "authors": [ "Dou et al." ],
+        "year": 2020,
+        "venue": "KDD",
+        "link": "https://doi.org/10.1145/3394486.3403088",
+        "tags": [ "Finance", "Fraud Detection", "GNN" ],
+        "abstract": "Applies GNN to transaction networks to detect fraudulent behavior using multi-hop features.",
+        "selected": true
+    },
+    {
+        "title": "Spatio-Temporal Graph Structure Learning for Traffic Forecasting",
+        "authors": [ "Wu et al." ],
+        "year": 2020,
+        "venue": "KDD",
+        "link": "https://doi.org/10.1145/3394486.3403088",
+        "tags": [ "Transportation", "Traffic Forecasting", "GNN" ],
+        "abstract": "Forecasts traffic speed using dynamically learned spatio-temporal graph structures.",
+        "selected": true
+    },
+    {
+        "title": "Graph Neural Networks for Social Recommendation",
+        "authors": [ "Fan et al." ],
+        "year": 2019,
+        "venue": "WWW",
+        "link": "https://doi.org/10.1145/3308558.3313417",
+        "tags": [ "Recommendation", "Social Networks", "GNN" ],
+        "abstract": "Combines user-item graphs with social links to improve recommendations.",
+        "selected": true
+    },
+    {
+        "title": "Session-Based Recommendation with Graph Neural Networks",
+        "authors": [ "Wu et al." ],
+        "year": 2019,
+        "venue": "WWW",
+        "link": "https://doi.org/10.1145/3308558.3313417",
+        "tags": [ "Recommendation", "Session Graph", "GNN" ],
+        "abstract": "Uses GNNs to model user session behavior for improved recommendations.",
+        "selected": true
+    },
+    {
+        "title": "Fake News Detection on Social Media: A Data Mining Perspective",
+        "authors": [ "Shu et al." ],
+        "year": 2017,
+        "venue": "ACM SIGKDD Explorations",
+        "link": "https://doi.org/10.1145/3137597.3137600",
+        "tags": [ "Social Media", "Fake News", "GNN" ],
+        "abstract": "Detects fake news using information propagation patterns modeled as graphs.",
+        "selected": true
+    },
+    {
+        "title": "Predicting Protein-Protein Interactions with Deep Graph Neural Networks",
+        "authors": [ "Zhang et al." ],
+        "year": 2020,
+        "venue": "Bioinformatics",
+        "link": "https://doi.org/10.1093/bioinformatics/btaa321",
+        "tags": [ "Biology", "Protein Interaction", "GNN" ],
+        "abstract": "Predicts PPIs using deep GNN models to analyze structural protein graphs.",
+        "selected": true
+    },
+    {
+        "title": "Modeling Relational Data with Graph Convolutional Networks",
+        "authors": [ "Schlichtkrull et al." ],
+        "year": 2018,
+        "venue": "ESWC",
+        "link": "https://doi.org/10.1007/978-3-319-93417-4_38",
+        "tags": [ "Knowledge Graph", "R-GCN", "Scientific Research" ],
+        "abstract": "Applies R-GCN for link prediction and entity classification in knowledge graphs.",
+        "selected": true
+    }
+]
